@@ -14,4 +14,6 @@ int main() {
 	}
 	int color[n];
 	for (int i = 0; i < n; i++) color[i] = 0;
+
+	stack <int> banket;
 }
