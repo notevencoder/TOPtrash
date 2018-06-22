@@ -16,4 +16,5 @@ int main() {
 	for (int i = 0; i < n; i++) color[i] = 0;
 
 	stack <int> banket;
+	banket.push(0);
 }
