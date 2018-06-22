@@ -12,4 +12,6 @@ int main() {
 		mas[x - 1][y - 1] = 1;
 		mas[y - 1][x - 1] = 1;
 	}
+	int color[n];
+	for (int i = 0; i < n; i++) color[i] = 0;
 }
